@@ -12,7 +12,7 @@ function App() {
   <div className="wrapper">
     <h1>React tutorial</h1>
 
-    <ToDoList todos={todos} key={todo.id}/> {/* передаем свойство */}
+    <ToDoList todos={todos}/> {/* передаем свойство */}
   </div>)
 }
 

@@ -25,3 +25,7 @@ code {
   border: none;
   cursor: pointer;
 }
+
+.done {
+  text-decoration: line-through;
+}
